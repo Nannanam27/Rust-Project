@@ -1,0 +1,15 @@
+[package]
+
+name = "Rustpro"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+iced = "0.6"
+sysinfo = "0.28"
+bytesize = "1.0"
+chrono = "0.4"
+
+
+ 

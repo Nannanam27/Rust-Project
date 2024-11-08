@@ -1,0 +1,98 @@
+Time: 05:30
+Memory: used 6901.11 TB / total 7985.69 TB (86.42%)
+Swap: used 11624.66 TB / total 15330.21 TB (75.83%)
+CPU Usage: CPU 1: 100.00%, CPU 2: 34.36%, CPU 3: 34.36%, CPU 4: 40.93%, CPU 5: 21.23%, CPU 6: 21.23%, CPU 7: 27.80%, CPU 8: 14.67%
+Disk Usage: OS: 209.63 GB used / 216.78 GB total (96.70%), DATA: 55.14 GB used / 467.22 GB total (11.80%), Data: 306.88 GB used / 464.17 GB total (66.11%)
+Network Usage: Wi-Fi: received 0 KB / transmitted 0 KB
+
+Time: 05:32
+Memory: used 6426.07 TB / total 7985.69 TB (80.47%)
+Swap: used 11302.83 TB / total 15330.21 TB (73.73%)
+CPU Usage: CPU 1: 0.00%, CPU 2: 75.87%, CPU 3: 0.00%, CPU 4: 0.00%, CPU 5: 3.48%, CPU 6: 3.48%, CPU 7: 0.00%, CPU 8: 0.00%
+Disk Usage: OS: 209.63 GB used / 216.78 GB total (96.70%), DATA: 55.14 GB used / 467.22 GB total (11.80%), Data: 306.88 GB used / 464.17 GB total (66.11%)
+Network Usage: Wi-Fi: received 0 KB / transmitted 0 KB
+
+Time: 12:31
+Memory: used 7522.55 TB / total 7985.69 TB (94.20%)
+Swap: used 12464.17 TB / total 15330.21 TB (81.30%)
+CPU Usage: CPU 1: 11.02%, CPU 2: 0.00%, CPU 3: 74.58%, CPU 4: 4.66%, CPU 5: 4.66%, CPU 6: 4.66%, CPU 7: 4.66%, CPU 8: 4.66%
+Disk Usage: OS: 210.76 GB used / 216.78 GB total (97.22%), DATA: 55.52 GB used / 467.22 GB total (11.88%), Data: 306.88 GB used / 464.17 GB total (66.11%)
+Network Usage: Wi-Fi: received 0 KB / transmitted 0 KB
+
+Time: 12:31
+Memory: used 7446.74 TB / total 7985.69 TB (93.25%)
+Swap: used 12105.68 TB / total 15330.21 TB (78.97%)
+CPU Usage: CPU 1: 10.48%, CPU 2: 10.48%, CPU 3: 100.00%, CPU 4: 10.48%, CPU 5: 10.48%, CPU 6: 10.48%, CPU 7: 10.48%, CPU 8: 10.48%
+Disk Usage: OS: 210.76 GB used / 216.78 GB total (97.22%), DATA: 55.52 GB used / 467.22 GB total (11.88%), Data: 306.88 GB used / 464.17 GB total (66.11%)
+Network Usage: Wi-Fi: received 0 KB / transmitted 0 KB
+
+Time: 12:31
+Memory: used 7196.46 TB / total 7985.69 TB (90.12%)
+Swap: used 12090.27 TB / total 15330.21 TB (78.87%)
+CPU Usage: CPU 1: 19.66%, CPU 2: 19.66%, CPU 3: 19.66%, CPU 4: 19.66%, CPU 5: 100.00%, CPU 6: 19.66%, CPU 7: 19.66%, CPU 8: 19.66%
+Disk Usage: OS: 210.75 GB used / 216.78 GB total (97.22%), DATA: 55.52 GB used / 467.22 GB total (11.88%), Data: 306.88 GB used / 464.17 GB total (66.11%)
+Network Usage: Wi-Fi: received 0 KB / transmitted 0 KB
+
+Time: 14:47
+Memory: used 6886.20 TB / total 7985.69 TB (86.23%)
+Swap: used 12019.71 TB / total 15330.21 TB (78.41%)
+CPU Usage: CPU 1: 0.00%, CPU 2: 0.00%, CPU 3: 0.00%, CPU 4: 0.00%, CPU 5: 7.98%, CPU 6: 0.00%, CPU 7: 81.60%, CPU 8: 0.00%
+Disk Usage: OS: 210.80 GB used / 216.78 GB total (97.24%), DATA: 55.52 GB used / 467.22 GB total (11.88%), Data: 306.88 GB used / 464.17 GB total (66.11%)
+Network Usage: Wi-Fi: received 0 KB / transmitted 0 KB
+
+Time: 14:48
+Memory: used 6801.25 TB / total 7985.69 TB (85.17%)
+Swap: used 11829.66 TB / total 15330.21 TB (77.17%)
+CPU Usage: CPU 1: 2.59%, CPU 2: 2.59%, CPU 3: 100.00%, CPU 4: 2.59%, CPU 5: 22.07%, CPU 6: 2.59%, CPU 7: 22.07%, CPU 8: 22.07%
+Disk Usage: OS: 210.80 GB used / 216.78 GB total (97.24%), DATA: 55.52 GB used / 467.22 GB total (11.88%), Data: 306.88 GB used / 464.17 GB total (66.11%)
+Network Usage: Wi-Fi: received 0 KB / transmitted 0 KB
+
+Time: 14:49
+Memory: used 6657.64 TB / total 7985.69 TB (83.37%)
+Swap: used 11762.23 TB / total 15330.21 TB (76.73%)
+CPU Usage: CPU 1: 0.90%, CPU 2: 0.90%, CPU 3: 0.90%, CPU 4: 0.90%, CPU 5: 0.90%, CPU 6: 0.90%, CPU 7: 75.23%, CPU 8: 0.90%
+Disk Usage: OS: 210.81 GB used / 216.78 GB total (97.25%), DATA: 55.52 GB used / 467.22 GB total (11.88%), Data: 306.88 GB used / 464.17 GB total (66.11%)
+Network Usage: Wi-Fi: received 0 KB / transmitted 0 KB
+
+Time: 14:50
+Memory: used 6453.01 TB / total 7985.69 TB (80.81%)
+Swap: used 11676.95 TB / total 15330.21 TB (76.17%)
+CPU Usage: CPU 1: 0.00%, CPU 2: 0.00%, CPU 3: 46.44%, CPU 4: 0.00%, CPU 5: 0.00%, CPU 6: 0.00%, CPU 7: 19.66%, CPU 8: 0.00%
+Disk Usage: OS: 210.80 GB used / 216.78 GB total (97.24%), DATA: 55.52 GB used / 467.22 GB total (11.88%), Data: 306.88 GB used / 464.17 GB total (66.11%)
+Network Usage: Wi-Fi: received 0 KB / transmitted 0 KB
+
+Time: 14:51
+Memory: used 6512.38 TB / total 7985.69 TB (81.55%)
+Swap: used 11696.83 TB / total 15330.21 TB (76.30%)
+CPU Usage: CPU 1: 0.00%, CPU 2: 0.00%, CPU 3: 0.00%, CPU 4: 0.00%, CPU 5: 22.38%, CPU 6: 0.00%, CPU 7: 22.38%, CPU 8: 0.00%
+Disk Usage: OS: 210.81 GB used / 216.78 GB total (97.25%), DATA: 55.52 GB used / 467.22 GB total (11.88%), Data: 306.88 GB used / 464.17 GB total (66.11%)
+Network Usage: Wi-Fi: received 0 KB / transmitted 0 KB
+
+Time: 14:51
+Memory: used 6499.20 TB / total 7985.69 TB (81.39%)
+Swap: used 11830.61 TB / total 15330.21 TB (77.17%)
+CPU Usage: CPU 1: 0.00%, CPU 2: 0.00%, CPU 3: 0.00%, CPU 4: 0.00%, CPU 5: 0.00%, CPU 6: 74.48%, CPU 7: 0.00%, CPU 8: 48.96%
+Disk Usage: OS: 210.80 GB used / 216.78 GB total (97.24%), DATA: 55.52 GB used / 467.22 GB total (11.88%), Data: 306.88 GB used / 464.17 GB total (66.11%)
+Network Usage: Wi-Fi: received 0 KB / transmitted 0 KB
+
+Time: 14:52
+Memory: used 6441.24 TB / total 7985.69 TB (80.66%)
+Swap: used 11764.73 TB / total 15330.21 TB (76.74%)
+CPU Usage: CPU 1: 0.00%, CPU 2: 24.19%, CPU 3: 0.00%, CPU 4: 24.19%, CPU 5: 24.19%, CPU 6: 0.00%, CPU 7: 0.00%, CPU 8: 0.00%
+Disk Usage: OS: 210.80 GB used / 216.78 GB total (97.24%), DATA: 55.52 GB used / 467.22 GB total (11.88%), Data: 306.88 GB used / 464.17 GB total (66.11%)
+Network Usage: Wi-Fi: received 0 KB / transmitted 0 KB
+
+Time: 14:52
+Memory: used 6611.59 TB / total 7985.69 TB (82.79%)
+Swap: used 11976.95 TB / total 15330.21 TB (78.13%)
+CPU Usage: CPU 1: 0.00%, CPU 2: 0.00%, CPU 3: 0.00%, CPU 4: 7.84%, CPU 5: 0.00%, CPU 6: 0.00%, CPU 7: 53.92%, CPU 8: 0.00%
+Disk Usage: OS: 210.81 GB used / 216.78 GB total (97.25%), DATA: 55.52 GB used / 467.22 GB total (11.88%), Data: 306.88 GB used / 464.17 GB total (66.11%)
+Network Usage: Wi-Fi: received 0 KB / transmitted 0 KB
+
+Time: 14:53
+Memory: used 6363.55 TB / total 7985.69 TB (79.69%)
+Swap: used 11689.16 TB / total 15330.21 TB (76.25%)
+CPU Usage: CPU 1: 19.43%, CPU 2: 19.43%, CPU 3: 100.00%, CPU 4: 0.00%, CPU 5: 19.43%, CPU 6: 0.00%, CPU 7: 19.43%, CPU 8: 19.43%
+Disk Usage: OS: 210.80 GB used / 216.78 GB total (97.24%), DATA: 55.52 GB used / 467.22 GB total (11.88%), Data: 306.88 GB used / 464.17 GB total (66.11%)
+Network Usage: Wi-Fi: received 0 KB / transmitted 0 KB
+
